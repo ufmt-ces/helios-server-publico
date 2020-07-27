@@ -1,0 +1,13 @@
+deploy-latest.sh
+*.pyc
+.DS_Store
+*~
+media/*
+venv
+heli
+celery*.log
+*.pid
+*.mo
+env.sh
+.cache
+.idea/

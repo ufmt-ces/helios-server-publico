@@ -1,0 +1,16 @@
+<p>
+Caro (a) {{voter.name}},
+</p>
+
+<p>{{custom_message|safe|linebreaksbr}}</p>
+<br>
+<p>
+Você pode acessar a eleição através do link {{election_vote_url}}
+</p>
+<br>
+--
+<br>
+<font style="" size="1" face="verdana, sans-serif"><b style="">Universidade Federal de Mato Grosso - Comissão Eleitoral</b>
+</font>
+<br>
+<u><a href="http://www.ufmt.br" target="_blank" style=""><font style="" face="verdana, sans-serif">www.ufmt.br</font></a></u>
