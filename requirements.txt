@@ -1,6 +1,6 @@
 Django==1.8.19
 anyjson==0.3.3
-celery==3.1.18
+celery==5.2.2
 django-celery==3.1.16
 django-picklefield==0.3.0
 kombu==3.0.30
